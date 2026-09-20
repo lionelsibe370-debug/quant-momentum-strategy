@@ -1,0 +1,7 @@
+name: quant_research
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - yfinance
+prefix: /home/lionel/miniforge3/envs/quant_research
